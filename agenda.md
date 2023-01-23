@@ -1,6 +1,7 @@
 ![](https://i.imgur.com/KKoEBBx.png) 
 # DIF APAC Regional SIG (2023)
 
+[![hackmd-github-sync-badge](https://hackmd.io/udPQuNxUT--56dCdRUthIQ/badge)](https://hackmd.io/udPQuNxUT--56dCdRUthIQ)
 
 ## :triangular_flag_on_post: January Meeting
 
