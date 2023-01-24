@@ -1,3 +1,4 @@
+
 ![](https://i.imgur.com/KKoEBBx.png) 
 # DIF APAC Regional SIG (2023)
 
@@ -9,18 +10,22 @@ This call is a collaborative effort between DIF and ToIP Comminities and interes
 
 ## 💬 Agenda Items
 
-List the agenda items to discuss in this meeting.
+agenda items to discuss in this meeting.
 
 | **Item** 	| **Presenter** 	| **Pass Time** |
 |----------	|-----------------	|--------------	|
-| 1        	| Name            	| x minutes   	|
-| 2        	|                 	|              	|
-| 3        	|                 	|              	|
+|  Member Introductions     	| Catherine           	| 10 minutes   	|
+| 2023 Events   	|      Catherine           	| 10 minutes             	|
+| DIF Member Spotlight Program               	| Catherine             	|5 minutes 
+ Digital identifiers: India |Sankarshan|10 minutes
+ Digital wallet & ID Card, Digital law and Standards: Thailand |Sammotic| 15 minutes
 
 
 ## :heavy_check_mark: Other Discussion
 
+
 Discuss other things that are not on the schedule.
+
 
 1. 
 2. 
